@@ -18,6 +18,8 @@
 4. 首页添加你自己的节点或订阅
 5. 连通性测试，选择可用节点连接
 
+https://github.com/xxooxxooxx/Shadowrocket-Rules/blob/main/Snipaste_2026-11-27_12-10-36.png
+
 ## 规则集来源
 
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) — 主要规则集
