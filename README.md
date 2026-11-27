@@ -18,7 +18,7 @@
 4. 首页添加你自己的节点或订阅
 5. 连通性测试，选择可用节点连接
 
-<img width="200" height="200" alt="ctool-2026-02-26-17-13-16" src="https://github.com/xxooxxooxx/Shadowrocket-Rules/blob/main/Snipaste_2026-11-27_12-10-36.png" />
+<img width="200" height="200" alt="ctool-2026-02-26-17-13-16" src="https://github.com/xxooxxooxx/Shadowrocket-Rules/blob/main/Shadowrocket-conf-QR.png" />
 
 ## 规则集来源
 
